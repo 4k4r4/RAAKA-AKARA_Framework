@@ -17,7 +17,7 @@ RAAKA is the red teaming component of the RAAKA-AKARA framework, dedicated to es
 - R - Reconnaissance
 - A - Acumen
 - A - Access
-- K - Kindle
+- K - Kernel
 - A - Abscondence
 
 ### AKARA
@@ -31,3 +31,4 @@ AKARA is the blue teaming component of the RAAKA-AKARA framework, specializing i
 ## Core
 By integrating RAAKA and AKARA, the framework enables a comprehensive mapping of the potential phases of red teaming activities with those of blue teaming. For instance, if a red team professional commences a simple network discovery during the reconnaissance phase of RAAKA, a blue team professional can identify the attack in the initial phase of AKARA and implement proactive countermeasures. Conversely, a red team professional can also identify the detection phase of their attack and able to take preventative measures to avoid detection. This collaborative approach exemplifies the mapping process within the RAAKA-AKARA Framework.
 
+![Core](https://github.com/user-attachments/assets/f2a768ce-97f7-4625-a90d-0a3b6f0454bc)
